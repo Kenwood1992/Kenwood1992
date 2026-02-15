@@ -1,4 +1,11 @@
-## Hi there 👋
+
+## <h1 align="center">Hi, I'm Artur Sultanov <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+student+IRONPROGRAMMER)](https://git.io/typing-svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kenwood1992&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kenwood1992&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kenwood1992&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kenwood1992&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kenwood1992&theme=solarized_dark)
 
 <!--
 **Kenwood1992/Kenwood1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
